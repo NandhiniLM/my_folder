@@ -1,2 +1,2 @@
 import math
-print("output:",math.cos(10))
+print("output:",math.log(10))
